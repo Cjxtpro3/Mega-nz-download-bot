@@ -1,0 +1,42 @@
+{
+    "name": "mega-downloader-bot",
+    "description": "Mega Downloader Bot",
+    "logo": "https://tinypic.host/images/2025/04/28/IMG_20250428_085026_585.jpg",
+    "keywords": [
+        "text-video",
+        "video-extract",
+        "pyrogram"
+    ],
+    "repository": "https://github.com/nikhilsainiop/saini-txt-direct",
+    "success_url": "https://t.me/saini_contact_bot",
+    "stack": "container",
+    "env": {
+        "API_ID": {
+            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "value": "",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "value": "",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "https://github.com/amivin/aria2-heroku.git"
+        },
+        {
+            "url": "heroku/python"
+        },       
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ]
+    }
