@@ -19,8 +19,8 @@ logger = logging.getLogger(__name__)
 
 # Initialize bot and Mega client
 bot_token = os.getenv("BOT_TOKEN")
-api_id = int(os.getenv("API_ID"))
-api_hash = os.getenv("API_HASH")
+api_id = int(os.getenv("22789024"))
+api_hash = os.getenv("05dd73c56053828044cb71216cdfd0cc")
 
 app = Client("mega_download_bot", bot_token=bot_token, api_id=api_id, api_hash=api_hash)
 mega = Mega()
