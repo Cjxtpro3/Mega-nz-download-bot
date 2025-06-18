@@ -60,12 +60,6 @@ If you have any questions or would like to sponsor this project in another way, 
 
 * `BOT_TOKEN` Get it from [@Botfather](https://t.me/botfather)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Cjxtpro3/Mega-nz-download-bot)
 
-
-### My Community Details
-
-  - YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader Bot 🚀](https://t.me/UploadLinkToFileBot)
-- My Tg Id : [Lisa 👑](https://t.me/LISA_FAN_LK)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/Cjxtpro3/Mega-nz-download-bot)
