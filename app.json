@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/nikhilsainiop/saini-txt-direct",
+    "repository": "https://github.com/Cjxtpro3/Mega-nz-download-bot",
     "success_url": "https://t.me/saini_contact_bot",
     "stack": "container",
     "env": {
